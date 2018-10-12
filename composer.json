@@ -1,0 +1,14 @@
+{
+    "name": "zdp8520/eee",
+    "description": "deesd",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhangdp",
+            "email": "790075310@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
